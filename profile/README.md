@@ -4,7 +4,7 @@
 
 Radilabs develops domain-specific AI harnesses with Radi: specialized systems for different kinds of work.
 
-[radilabs.com](https://www.radilabs.com) · [Technology](https://www.radilabs.com/technology/) · [Harnesses](https://www.radilabs.com/harnesses/) · [Built with Radi](https://www.radilabs.com/built-with-radi/) · [About](https://www.radilabs.com/about/) · [LinkedIn](https://www.linkedin.com/company/radi-labs)
+[radilabs.com](https://www.radilabs.com) · [Technology](https://www.radilabs.com/technology/) · [Harnesses](https://www.radilabs.com/harnesses/) · [Built with Radi](https://www.radilabs.com/built-with-radi/) · [Blog](https://www.radilabs.com/blog/) · [About](https://www.radilabs.com/about/) · [LinkedIn](https://www.linkedin.com/company/radi-labs)
 
 ## Open source
 
@@ -12,10 +12,14 @@ Working products across different domains, platforms and constraints. Each one i
 
 | Project | What it is | Stack · Platform | Release | License |
 | --- | --- | --- | --- | --- |
-| [RadiChat](https://github.com/radilabs/radichat) | A small Linux terminal client for streamed chat with local and bearer-authenticated OpenAI-compatible endpoints | Go · Linux, macOS | [v0.1.0](https://github.com/radilabs/radichat/releases/tag/v0.1.0) | MIT |
+| [RadiChat](https://github.com/radilabs/radichat) | A small Linux terminal client for streamed chat with local and bearer-authenticated OpenAI-compatible endpoints | Go · Linux, macOS | [v0.1.1](https://github.com/radilabs/radichat/releases/tag/v0.1.1) | MIT |
 | [Horizon](https://github.com/radilabs/horizon) | KDE Plasma widget that shows remaining AI coding-tool quota for Codex, Cursor, StepFun and Claude | Python · Linux, Plasma 6 | [v0.2.0](https://github.com/radilabs/horizon/releases/tag/v0.2.0) | Apache-2.0 |
 | [PikaTalk](https://github.com/radilabs/pikatalk) | Native KDE Plasma desktop client for a local PicoClaw gateway | C++ · Linux, Plasma 6 | [0.1.0](https://github.com/radilabs/pikatalk/releases/tag/0.1.0) | MIT |
 | [OmaSnap](https://github.com/radilabs/omasnap) | Native Wayland screenshot and annotation editor designed for Omarchy and Hyprland | C++ · Wayland, Hyprland | No release yet | MIT |
+
+## Writing
+
+Practical engineering articles: real problems, working solutions, and the tools behind them. Current article: [Smoke-Testing a Small Language Model with RadiChat](https://www.radilabs.com/blog/testing-llms-with-a-simple-shell-pipeline/) — one prompt file, one JSONL result file, and a diff you can read after every change.
 
 ## Harnesses
 
